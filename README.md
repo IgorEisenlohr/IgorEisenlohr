@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me igor_eisenlohr@hotmail.com
 
+Iniciando os meus trabalhos no github, começando a apresentar alguns notebooks com projetos de análise de dados e machine learning.
